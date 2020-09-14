@@ -1,0 +1,58 @@
+MODEL       88
+REMARK 921   NORMALIZED FREE ENERGY PREDICTED BY IDOCK:   -3.46 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY PREDICTED BY IDOCK:   -4.26 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY PREDICTED BY IDOCK:   -4.41 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY PREDICTED BY IDOCK:    0.15 KCAL/MOL
+REMARK 927      BINDING AFFINITY PREDICTED BY RF-SCORE:    0.00 PKD
+ROOT
+HETATM    1  C   UNL     1      -7.079  15.795  69.802  1.00  0.00    -0.077 C  
+HETATM    2  C   UNL     1      -6.328  14.719  70.580  1.00  0.00    -0.085 C  
+HETATM    3  C   UNL     1      -5.144  15.500  71.230  1.00  0.00    -0.137 C  
+HETATM    4  C   UNL     1      -5.132  16.894  70.607  1.00  0.00    -0.234 C  
+HETATM    5  N   UNL     1      -6.070  16.807  69.517  1.00  0.00    -0.206 N  
+HETATM    6  C   UNL     1      -6.404  17.932  68.776  1.00  0.00    -0.217 C  
+HETATM    7  O   UNL     1      -5.694  18.927  68.695  1.00  0.00    -0.201 OA 
+HETATM    8  C   UNL     1      -7.611  17.636  67.917  1.00  0.00    -0.210 C  
+HETATM    9  C   UNL     1      -7.857  18.577  66.744  1.00  0.00    -0.257 C  
+HETATM   10  N   UNL     1      -8.766  17.007  68.867  1.00  0.00    -0.242 N  
+HETATM   11  C   UNL     1      -8.355  19.952  67.128  1.00  0.00    -0.367 C  
+HETATM   12  C   UNL     1      -6.755  18.596  65.668  1.00  0.00    -0.309 C  
+HETATM   13  C   UNL     1     -10.112  16.704  68.630  1.00  0.00    -0.270 C  
+HETATM   14  O   UNL     1     -11.002  16.784  69.467  1.00  0.00    -0.297 OA 
+HETATM   15  C   UNL     1     -10.190  16.115  67.236  1.00  0.00    -0.277 C  
+HETATM   16  H   UNL     1      -9.968  14.622  69.034  1.00  0.00     0.000 HD 
+HETATM   17  C   UNL     1     -10.739  17.598  66.667  1.00  0.00    -0.117 C  
+HETATM   18  O   UNL     1      -8.752  15.485  67.463  1.00  0.00    -0.164 OA 
+HETATM   19  O   UNL     1      -9.198  14.709  69.582  1.00  0.00     0.117 OA 
+HETATM   20  C   UNL     1      -8.394  15.647  68.867  1.00  0.00    -0.210 C  
+HETATM   21  C   UNL     1     -12.158  18.071  67.111  1.00  0.00     3.389 C  
+HETATM   22  C   UNL     1     -10.677  17.947  65.189  1.00  0.00     0.503 C  
+ENDROOT
+BRANCH  15  23
+HETATM   23  N   UNL     1     -10.924  15.057  66.576  1.00  0.00    -0.325 N  
+HETATM   24  H   UNL     1     -10.891  14.962  65.561  1.00  0.00     0.000 HD 
+HETATM   25  O   UNL     1     -12.056  14.412  68.498  1.00  0.00    -0.318 OA 
+HETATM   26  C   UNL     1     -11.679  14.164  67.347  1.00  0.00    -0.391 C  
+BRANCH  26  27
+HETATM   27  C   UNL     1     -11.910  12.786  66.699  1.00  0.00    -0.462 C  
+HETATM   28  C   UNL     1     -12.131  12.974  65.181  1.00  0.00    -0.433 C  
+HETATM   29  N   UNL     1     -10.944  12.732  64.323  1.00  0.00    -0.354 NA 
+HETATM   30  C   UNL     1     -10.565  11.292  64.341  1.00  0.00    -0.345 C  
+HETATM   31  C   UNL     1      -9.789  13.576  64.649  1.00  0.00     0.097 C  
+HETATM   32  C   UNL     1      -9.117  10.989  63.740  1.00  0.00    -0.139 C  
+HETATM   33  C   UNL     1      -8.236  10.251  64.693  1.00  0.00    -0.161 A  
+HETATM   34  C   UNL     1      -6.869  10.129  64.851  1.00  0.00    -0.129 A  
+HETATM   35  N   UNL     1      -6.643   9.222  65.859  1.00  0.00    -0.074 NA 
+HETATM   36  C   UNL     1      -7.837   8.745  66.354  1.00  0.00    -0.099 A  
+HETATM   37  H   UNL     1      -5.721   8.941  66.193  1.00  0.00     0.000 HD 
+HETATM   38  C   UNL     1      -8.181   7.832  67.356  1.00  0.00    -0.123 A  
+HETATM   39  C   UNL     1      -9.554   7.667  67.622  1.00  0.00    -0.175 A  
+HETATM   40  C   UNL     1     -10.524   8.467  67.015  1.00  0.00    -0.362 A  
+HETATM   41  C   UNL     1     -10.134   9.444  66.102  1.00  0.00    -0.324 A  
+HETATM   42  C   UNL     1      -8.811   9.470  65.702  1.00  0.00    -0.194 A  
+HETATM   43  C   UNL     1     -10.957  10.637  65.739  1.00  0.00     0.091 C  
+HETATM   44  C   UNL     1     -10.830  11.696  66.891  1.00  0.00    -0.322 C  
+ENDBRANCH  26  27
+ENDBRANCH  15  23
+TORSDOF 2
+ENDMDL

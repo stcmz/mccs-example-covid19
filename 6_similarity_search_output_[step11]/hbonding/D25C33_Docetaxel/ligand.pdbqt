@@ -1,0 +1,97 @@
+MODEL       33
+REMARK 921   NORMALIZED FREE ENERGY PREDICTED BY IDOCK:   -2.64 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY PREDICTED BY IDOCK:   -7.16 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY PREDICTED BY IDOCK:   -5.79 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY PREDICTED BY IDOCK:   -1.37 KCAL/MOL
+REMARK 927      BINDING AFFINITY PREDICTED BY RF-SCORE:    0.00 PKD
+ROOT
+HETATM    1  C   UNL     1      -9.460  16.213  69.039  1.00  0.00    -0.246 C  
+HETATM    2  C   UNL     1      -9.782  17.200  67.914  1.00  0.00    -0.270 C  
+HETATM    3  C   UNL     1     -10.956  16.563  67.124  1.00  0.00    -0.049 C  
+HETATM    4  O   UNL     1     -12.083  16.445  68.006  1.00  0.00     0.185 OA 
+HETATM    5  C   UNL     1     -10.461  15.237  66.511  1.00  0.00    -0.299 C  
+HETATM    6  H   UNL     1     -12.802  16.056  67.523  1.00  0.00     0.000 HD 
+HETATM    7  C   UNL     1     -11.753  14.447  65.902  1.00  0.00    -0.369 C  
+HETATM    8  C   UNL     1      -9.804  15.610  65.137  1.00  0.00    -0.018 C  
+HETATM    9  C   UNL     1     -11.644  13.112  65.077  1.00  0.00    -0.325 C  
+HETATM   10  O   UNL     1     -12.881  14.966  65.928  1.00  0.00     0.192 OA 
+HETATM   11  O   UNL     1     -12.919  12.458  64.984  1.00  0.00    -0.705 OA 
+HETATM   12  C   UNL     1     -10.737  12.072  65.629  1.00  0.00    -0.313 C  
+HETATM   13  C   UNL     1      -9.815  11.322  64.977  1.00  0.00    -0.307 C  
+HETATM   14  H   UNL     1     -12.853  11.652  64.486  1.00  0.00     0.000 HD 
+HETATM   15  C   UNL     1      -8.856  10.141  65.774  1.00  0.00    -0.158 C  
+HETATM   16  C   UNL     1      -9.417  11.685  63.547  1.00  0.00    -0.190 C  
+HETATM   17  C   UNL     1      -8.029  11.290  66.247  1.00  0.00    -0.086 C  
+HETATM   18  C   UNL     1      -8.782  14.784  69.070  1.00  0.00    -0.139 C  
+HETATM   19  C   UNL     1      -9.121  15.202  70.653  1.00  0.00     1.580 C  
+HETATM   20  C   UNL     1      -8.857  12.226  67.273  1.00  0.00    -0.190 C  
+HETATM   21  O   UNL     1      -8.844  16.618  70.262  1.00  0.00     1.528 OA 
+HETATM   22  C   UNL     1      -8.265  13.964  66.859  1.00  0.00     0.066 C  
+HETATM   23  C   UNL     1     -11.752  12.591  68.041  1.00  0.00    -0.410 C  
+HETATM   24  C   UNL     1     -10.677  11.872  67.096  1.00  0.00    -0.280 C  
+HETATM   25  O   UNL     1      -8.616  11.839  68.638  1.00  0.00    -0.263 OA 
+HETATM   26  C   UNL     1      -9.426  14.491  67.589  1.00  0.00    -0.209 C  
+HETATM   27  H   UNL     1      -9.103  12.389  69.240  1.00  0.00     0.000 HD 
+HETATM   28  C   UNL     1     -11.404  10.464  67.304  1.00  0.00     0.021 C  
+ENDROOT
+BRANCH  15  29
+HETATM   29  O   UNL     1      -9.133   9.573  67.162  1.00  0.00    -0.133 OA 
+BRANCH  29  30
+HETATM   30  C   UNL     1      -8.691   8.335  67.575  1.00  0.00    -0.129 C  
+HETATM   31  O   UNL     1      -9.120   7.292  67.101  1.00  0.00    -0.125 OA 
+BRANCH  30  32
+HETATM   32  C   UNL     1      -7.624   8.434  68.771  1.00  0.00    -0.101 C  
+HETATM   33  O   UNL     1      -6.432   7.659  68.594  1.00  0.00    -0.045 OA 
+HETATM   34  H   UNL     1      -5.801   7.718  69.302  1.00  0.00     0.000 HD 
+BRANCH  32  35
+HETATM   35  C   UNL     1      -8.294   8.084  70.153  1.00  0.00    -0.126 C  
+BRANCH  35  36
+HETATM   36  N   UNL     1      -8.779   6.678  70.116  1.00  0.00    -0.140 N  
+HETATM   37  C   UNL     1      -7.907   5.709  70.437  1.00  0.00    -0.102 C  
+HETATM   38  O   UNL     1      -6.743   5.820  70.551  1.00  0.00    -0.045 OA 
+HETATM   39  H   UNL     1      -9.741   6.459  69.856  1.00  0.00     0.000 HD 
+BRANCH  37  40
+HETATM   40  O   UNL     1      -8.621   4.533  70.697  1.00  0.00    -0.090 OA 
+HETATM   41  C   UNL     1      -8.493   3.470  69.738  1.00  0.00    -0.053 C  
+HETATM   42  C   UNL     1      -7.026   3.013  69.625  1.00  0.00    -0.041 C  
+HETATM   43  C   UNL     1      -9.088   3.867  68.379  1.00  0.00    -0.189 C  
+HETATM   44  C   UNL     1      -9.314   2.302  70.309  1.00  0.00    -0.184 C  
+ENDBRANCH  37  40
+ENDBRANCH  35  36
+BRANCH  35  45
+HETATM   45  C   UNL     1      -7.582   8.346  71.492  1.00  0.00    -0.118 A  
+HETATM   46  C   UNL     1      -6.290   8.866  71.646  1.00  0.00    -0.074 A  
+HETATM   47  C   UNL     1      -6.417   8.672  74.081  1.00  0.00    -0.123 A  
+HETATM   48  C   UNL     1      -8.262   7.987  72.684  1.00  0.00    -0.203 A  
+HETATM   49  C   UNL     1      -5.718   9.032  72.929  1.00  0.00    -0.055 A  
+HETATM   50  C   UNL     1      -7.693   8.144  73.957  1.00  0.00    -0.258 A  
+ENDBRANCH  35  45
+ENDBRANCH  32  35
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  15  29
+BRANCH  22  51
+HETATM   51  O   UNL     1      -7.260  15.318  67.444  1.00  0.00    -0.185 OA 
+BRANCH  51  52
+HETATM   52  C   UNL     1      -6.249  16.285  67.124  1.00  0.00    -0.141 C  
+HETATM   53  O   UNL     1      -5.136  16.171  67.633  1.00  0.00    -0.121 OA 
+BRANCH  52  54
+HETATM   54  C   UNL     1      -6.440  17.722  66.255  1.00  0.00    -0.285 A  
+HETATM   55  C   UNL     1      -6.225  19.421  64.395  1.00  0.00    -0.139 A  
+HETATM   56  C   UNL     1      -7.329  20.120  66.374  1.00  0.00    -0.313 A  
+HETATM   57  C   UNL     1      -7.118  18.802  66.906  1.00  0.00    -0.218 A  
+HETATM   58  C   UNL     1      -6.022  18.110  64.959  1.00  0.00    -0.025 A  
+HETATM   59  C   UNL     1      -6.881  20.448  65.089  1.00  0.00    -0.275 A  
+ENDBRANCH  52  54
+ENDBRANCH  51  52
+ENDBRANCH  22  51
+BRANCH  18  60
+HETATM   60  O   UNL     1      -7.299  14.223  69.422  1.00  0.00    -0.102 OA 
+BRANCH  60  61
+HETATM   61  C   UNL     1      -6.312  14.595  70.371  1.00  0.00    -0.153 C  
+HETATM   62  C   UNL     1      -5.702  13.512  71.213  1.00  0.00    -0.148 C  
+HETATM   63  O   UNL     1      -5.904  15.713  70.701  1.00  0.00    -0.096 OA 
+ENDBRANCH  60  61
+ENDBRANCH  18  60
+TORSDOF 12
+ENDMDL
